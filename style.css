@@ -1,31 +1,40 @@
-body {
+*{margin: 0;
+padding: 0;}
+
+.logomarca{
+	background: black;
+	text-align: center;
+
 	
 }
 
-#banner {
-	width:100%;
-}
+.imagem__logo{
 
+	width:50%;
+}
 .principal{
-	background: #CCCCCC;
-	padding: 30px;
-}
+	background-image: linear-gradient(black, red);
+ 	padding: 80px;
 
+
+}
 h1 {
-	text-align: center
-}
-
-p {
+	color: #FFFFFF;
 	text-align: center;
+	font-size: 55px;
+	
 }
 
-#missao {
-	font-size: 20px
+p { color: greenyellow;
+	text-align: center;
+	font-size: 28px;
 }
 
-em strong {
-	color: #FF0000;
+h2 {
+	text-align: center;
+	font-size: 50px;
 }
+
 
 .itens {
 	font-style: italic
@@ -38,6 +47,7 @@ em strong {
 
 h2 {
 	text-align: center;
+	font-size: 50px;
 }
 ul {
 	display: inline-block;
@@ -46,6 +56,6 @@ ul {
 	margin-right: 15%;
 }
 
-.imagembeneficios {
+.imagemdelivery {
 	width: 50%;
 }
