@@ -32,30 +32,29 @@ p { color: greenyellow;
 
 h2 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 45px;
+	color: #FFFFFF;
 }
-
-
+.texto {padding: 30px;}
 .itens {
-	font-style: italic
+	font-style: italic;
 }
 
-.beneficios {
-	background: #FFFFFF;
-	padding: 20px;
-}
-
-h2 {
-	text-align: center;
-	font-size: 50px;
-}
 ul {
 	display: inline-block;
 	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
+	padding: 30px;
+	font-size: 25px;
 }
+.cardapio{ background-image: linear-gradient(red, black);
+
+	}
+ .lista{align-items: center;
+	text-align: center;
+	padding: 45px;
+justify-content: space-around;}
 
 .imagemdelivery {
-	width: 50%;
+	width: 20%;
+	align-items: center;
 }
