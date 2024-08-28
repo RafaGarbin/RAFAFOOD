@@ -13,7 +13,7 @@ padding: 0;}
 	width:50%;
 }
 .principal{
-	background-image: linear-gradient(black, rgb(172, 36, 36));
+	background-image: linear-gradient(rgb(127, 11, 2), rgb(238, 70, 70));
  	padding: 80px;
 
 
@@ -46,7 +46,7 @@ ul {
 	padding: 30px;
 	font-size: 25px;
 }
-.cardapio{ background-image: linear-gradient(red, black);
+.cardapio{ background-image: linear-gradient(rgb(238, 70, 70), rgb(135, 6, 6));
 
 	}
  .lista{align-items: center;
