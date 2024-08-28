@@ -3,10 +3,8 @@ padding: 0;}
 
 .logomarca{
 
-	background: rgb(36, 11, 226);
+	background: rgb(127, 11, 2);
 	text-align: center;
-	
-
 	
 }
 
@@ -15,7 +13,7 @@ padding: 0;}
 	width:50%;
 }
 .principal{
-	background-image: linear-gradient(black, red);
+	background-image: linear-gradient(black, rgb(172, 36, 36));
  	padding: 80px;
 
 
@@ -27,7 +25,7 @@ h1 {
 	
 }
 
-p { color: greenyellow;
+p { color: rgb(248, 250, 244);
 	text-align: center;
 	font-size: 28px;
 }
